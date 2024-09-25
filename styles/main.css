@@ -12,3 +12,7 @@ header img{
 h2{
   text-indent:30px;
 }
+footer p{
+  text-align:center;
+  font-size:80%;
+}
